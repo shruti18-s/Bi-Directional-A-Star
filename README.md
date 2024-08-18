@@ -25,6 +25,7 @@ This project implements a bidirectional A* pathfinding algorithm with visualizat
 2. **Install the required packages:**
     ```bash
     pip install opencv-python numpy
+    
     ```
 
 ## Usage
