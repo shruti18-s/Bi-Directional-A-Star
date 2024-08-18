@@ -18,7 +18,7 @@ This project implements a bidirectional A* pathfinding algorithm with visualizat
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/bidirectional-a-star.git
+    git clone https://https://github.com/shruti18-s/Bi-Directional-A-Star.git
     cd bidirectional-a-star
     ```
 
